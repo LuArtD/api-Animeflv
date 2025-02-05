@@ -1,0 +1,6 @@
+animeapi/
+__pycache__/
+*.pyc
+descargas/
+*.mp4
+*.zst
